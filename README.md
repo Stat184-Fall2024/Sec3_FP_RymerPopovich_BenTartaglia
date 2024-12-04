@@ -47,7 +47,7 @@ We present the guidelines as a checklist in this README. This means that your te
   - [x] Explain how your data meet the FAIR and/or CARE Principles.
   - [x] Describe what attributes you'll focus your analysis on (mention if they are part of your data sets or if you created them out of your data sets).
   - [x] Create multiple data visualizations (tables and figures) that assist both the team and readers in understanding the data.
-    - [ ] Data visualizations should show a variety of your skills and geometries.
+    - [x] Data visualizations should show a variety of your skills and geometries.
     - [ ] __Optional__: If your research question/data make sense to do so, try creating a map.
     - [ ] Data visualizations should be appropriately sized--not too small and not too big.
     - [ ] Figures and Tables should have appropriate captions and appropriately cross-referenced in the body of your report.
