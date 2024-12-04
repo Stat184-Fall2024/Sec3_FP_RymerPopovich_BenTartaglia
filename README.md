@@ -27,7 +27,7 @@ We present the guidelines as a checklist in this README. This means that your te
   - [x] The owner of the repo should be `Stat184-Fall2024`. 
 - [x] Make sure that each team member has access to the repo.
 - [x] Come up with a topic and set of research questions your team will explore.
-- [ ] Make a plan for your work. We suggested putting together your work plan by <mark>Wednesday, Dec. 1, 2024</mark>.
+- [x] Make a plan for your work. We suggested putting together your work plan by <mark>Wednesday, Dec. 1, 2024</mark>.
 - [x] Locate appropriate data sources for your project.
   - [x] Your main data source may __not__ be one that we used in class nor be found in any R package.
   - [x] Supplementary data sources may come from anywhere.
@@ -35,14 +35,14 @@ We present the guidelines as a checklist in this README. This means that your te
 - [x] Conduct Exploratory Data Analysis.
 - [x] Prepare a reproducible report.
   - [x] Use a QMD file; the output type is PDF.
-  - [ ] The report should be well organized with section headings
-  - [ ] Code should __only__ be found in a Code Appendix at the end for a PDF, not in the body of your report.
+  - [x] The report should be well organized with section headings
+  - [x] Code should __only__ be found in a Code Appendix at the end for a PDF, not in the body of your report.
     - __TIP!__ The following code chunk can be added to a QMD file and will automatically build a section of code.
 ````
       ```{r codeAppend, ref.label=knitr::all_labels(), echo=TRUE, eval=FALSE}
       ```
 ````
-  - [ ] State your research questions and explain them.
+  - [x] State your research questions and explain them.
   - [ ] Describe the provenance of your data. That is, where did you get the data, who collected the data, for what purpose, who/what make up the cases.
   - [ ] Explain how your data meet the FAIR and/or CARE Principles.
   - [ ] Describe what attributes you'll focus your analysis on (mention if they are part of your data sets or if you created them out of your data sets).
