@@ -31,7 +31,7 @@ We present the guidelines as a checklist in this README. This means that your te
 - [x] Locate appropriate data sources for your project.
   - [x] Your main data source may __not__ be one that we used in class nor be found in any R package.
   - [x] Supplementary data sources may come from anywhere.
-- [ ] Read in your data and perform any necessary data wrangling and cleaning.
+- [x] Read in your data and perform any necessary data wrangling and cleaning.
 - [x] Conduct Exploratory Data Analysis.
 - [x] Prepare a reproducible report.
   - [x] Use a QMD file; the output type is PDF.
@@ -43,7 +43,7 @@ We present the guidelines as a checklist in this README. This means that your te
       ```
 ````
   - [x] State your research questions and explain them.
-  - [ ] Describe the provenance of your data. That is, where did you get the data, who collected the data, for what purpose, who/what make up the cases.
+  - [x] Describe the provenance of your data. That is, where did you get the data, who collected the data, for what purpose, who/what make up the cases.
   - [ ] Explain how your data meet the FAIR and/or CARE Principles.
   - [ ] Describe what attributes you'll focus your analysis on (mention if they are part of your data sets or if you created them out of your data sets).
   - [ ] Create multiple data visualizations (tables and figures) that assist both the team and readers in understanding the data.
