@@ -64,7 +64,7 @@ We present the guidelines as a checklist in this README. This means that your te
   - [ ] One team member should create the Pull Request while a *different* team member should review and complete the Pull Request.
   - [ ] Ensure that your instructor has access to your repo.
   - [ ] __Optional:__ Use the repo's Issues system to track and address any problems, core tasks, etc. 
-- [ ] All code should be written according to a Style Guide of your choice. List this Style Guide as a code comment in your first code chunk.
+- [x] All code should be written according to a Style Guide of your choice. List this Style Guide as a code comment in your first code chunk.
   - __Possible Style Guides:__ There are several different coding Style Guides you can follow; here are a few. [The BOAST Style Guide](https://educationshinyappteam.github.io/Style_Guide/coding.html), [The Tidyverse Style Guide](https://style.tidyverse.org/), [Google's R Style Guide](https://google.github.io/styleguide/Rguide.html)
 - [ ] Sign up for your Work-in-Progress Presentation
 - [ ] Complete your Work-in-Progress Presentation (details below)
