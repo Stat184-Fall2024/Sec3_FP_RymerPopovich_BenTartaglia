@@ -54,12 +54,12 @@ We present the guidelines as a checklist in this README. This means that your te
     - [x] Your team must produce at least one table that is *not* a display of raw data.
     - [x] Your team must produce at least one plot/graph.
     - [x] There should be narrative text helping readers to better understand what the visualization helps them to learn about the data and context.
-  - [ ] Your report should narrative text (beyond explaining tables and figures) that explains the context and helps the reader make sense of what is going on.
+  - [x] Your report should narrative text (beyond explaining tables and figures) that explains the context and helps the reader make sense of what is going on.
   - [ ] __Optional:__ For those who want to challenge themselves further, feel free to include a section on using other statistical methods such as hypothesis testing, regression, ANOVA, or machine learning--see Chapter 18 of the Data Computing eBook.
-  - [ ]  You should properly cite any work you reference (including data) according to your choice of citation style. We've included files for APA7 and MLA9 as part of this template. If you want to use a different citation style, you will need download the CSL file from the [Zotero Style Respository](https://www.zotero.org/styles/) and include it in your team's repo.
+  - [x]  You should properly cite any work you reference (including data) according to your choice of citation style. We've included files for APA7 and MLA9 as part of this template. If you want to use a different citation style, you will need download the CSL file from the [Zotero Style Respository](https://www.zotero.org/styles/) and include it in your team's repo.
     - __Fail Safe:__ You can also put your citations as footnotes. 
-- [ ] Use GitHub to share changes and edits; there should be multiple commits to your repo.
-  - [ ] Each team member must have at least two (2) commits in the repo's history.
+- [x] Use GitHub to share changes and edits; there should be multiple commits to your repo.
+  - [x] Each team member must have at least two (2) commits in the repo's history.
   - [ ] There should be at must be at least one Pull Request that resulted in a successful merging of two branches.
   - [ ] One team member should create the Pull Request while a *different* team member should review and complete the Pull Request.
   - [ ] Ensure that your instructor has access to your repo.
